@@ -24,3 +24,5 @@ about: Create a report to help us improve
 1. 
 2. 
 3.
+
+**Player Name**:
