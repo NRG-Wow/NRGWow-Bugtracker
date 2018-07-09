@@ -13,6 +13,8 @@ about: Create a report to help us improve
 [//]: # ([CATA][Glyphs][Classes] Glyph name)
 [//]: # ([CATA][NPCs] NPC name)
 
+**Reporter(Player/Character) Name**:
+
 **Description**: Describe the problem
 
 **Current behaviour**: What happens
@@ -24,5 +26,3 @@ about: Create a report to help us improve
 1. 
 2. 
 3.
-
-**Player Name**:
