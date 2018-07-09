@@ -7,11 +7,11 @@ about: Create a report to help us improve
 [//]: #  (Only reports in english will be allowed. and specific issues. everything like "ZOMG NOTHING WORKS" will be ignored / deleted)
 
 [//]: # (Please write the titles of the issues following the format:)
-[//]: # ([Quests][Zones] Quest name)
-[//]: # ([Spells][Classes] Spell name)
-[//]: # ([Talents][Classes] Talent name)
-[//]: # ([Glyphs][Classes] Glyph name)
-[//]: # ([NPCs] NPC name)
+[//]: # ([CATA][Quests][Zones] Quest name)
+[//]: # ([WOTLK][Spells][Classes] Spell name)
+[//]: # ([WOTLK][Talents][Classes] Talent name)
+[//]: # ([CATA][Glyphs][Classes] Glyph name)
+[//]: # ([CATA][NPCs] NPC name)
 
 **Description**: Describe the problem
 
