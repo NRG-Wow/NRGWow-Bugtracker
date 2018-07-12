@@ -5,7 +5,7 @@ and if succefully verified they will be added and prioritized on our private iss
 
 #### Reporting a bug:
 Only reports in english will be accepted, as well only specific issue with clear explanation and references.
-all issues like "ZOMG NOTHGIN WORKS ALL BUG" will be ignored and deleted.
+all issues like "ZOMG NOTHGIN WORKS ALL BUG" will be ignored and deleted, Use the search function... duplicated issues will be deleted.
 
 Please report using the template and the title with the following format
 * [CATA][Quests][Zones] Quest name
