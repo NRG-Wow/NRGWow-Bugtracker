@@ -4,7 +4,7 @@ This issue tracker is meant for the players, The staff will verify the credibili
 and if succefully verified they will be added and prioritized on our private issue tracker.
 
 #### Reporting a bug:
-Only reports in english will be accepted, as well only specific issue with clear explanation and references.
+Only reports in english will be accepted, as well only specific issue with clear [explanation and references.](https://github.com/NRG-Wow/NRGWow-Bugtracker/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 all issues like "ZOMG NOTHGIN WORKS ALL BUG" will be ignored and deleted, Use the search function... duplicated issues will be deleted.
 
 Please report using the template and the title with the following format
@@ -15,3 +15,4 @@ Please report using the template and the title with the following format
 * [CATA][NPCs] NPC name
 
 Note that **[CATA]** or **[WOTLK]** Represents the name of realm
+
