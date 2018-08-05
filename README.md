@@ -16,3 +16,4 @@ Please report using the template and the title with the following format
 
 Note that **[CATA]** or **[WOTLK]** Represents the name of realm
 
+https://nrg-wow.com
